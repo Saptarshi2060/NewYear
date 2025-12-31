@@ -1,0 +1,8 @@
+
+{
+  "name": "New Year Love Surprise",
+  "description": "An interactive, romantic 3D animated experience featuring a cute teddy bear delivering a heartfelt New Year love letter.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
