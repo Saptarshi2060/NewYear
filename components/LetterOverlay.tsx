@@ -22,7 +22,7 @@ const LetterOverlay: React.FC<LetterOverlayProps> = ({ onClose }) => {
   const fullText = [
     "My Little princess,",
     "New Year, same me… still completely in love with you.",
-    "Every year with you somehow gets better, and I already know 2025 is going to be amazing because we’re doing it together.",
+    "Every day with you somehow gets better, and I already know 2026 is going to be amazing because we’re doing it together.",
     "You’re my favorite person, my safe place, and the reason even boring days feel special.",
     "I promise to love you more, annoy you a little extra, and choose you every single day.",
     "Forever yours (and only yours), ❤️"
