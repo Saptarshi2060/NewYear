@@ -1,7 +1,6 @@
 
-# New Year Love Surprise
+# New Year Surprise
 
-A beautiful 3D interactive love letter experience built with React, Three.js, and Framer Motion.
 
 ## Getting Started
 
